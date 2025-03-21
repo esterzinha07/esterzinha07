@@ -1,16 +1,26 @@
-## Hi there 👋
+Olá, eu sou a Ester Rodrigues da Costa 👩‍💻
+🎓 Estudante de Informática | Apaixonada por Tecnologia e Inovação
 
-<!--
-**esterzinha07/esterzinha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Sobre mim:
+Atualmente, estou explorando o fascinante mundo da programação e do desenvolvimento de software. Estou sempre em busca de novos desafios para aprender e melhorar minhas habilidades!
 
-Here are some ideas to get you started:
+💡 Áreas de Interesse:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvimento Web 🌐
+Algoritmos e Estruturas de Dados 📊
+Inteligência Artificial 🤖
+Automação 💻
+-------------------------------------------------------------
+🛠️ Linguagens de Programação que estou aprendendo:
+Python 🐍
+JavaScript 💻
+C++ 🔧
+HTML & CSS 🌟
+SQL 📈
+--------------------------------------------------------------
+
+🌱 Atualmente estou focada em:
+Aperfeiçoar meu conhecimento em desenvolvimento Full Stack
+Criar projetos de automação
+Melhorar minhas habilidades em IA e machine learning
+
