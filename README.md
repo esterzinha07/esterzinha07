@@ -6,6 +6,8 @@ Atualmente tenho 17 anos e estou cursando no IFCE campus Maranguape onde
 já estrou no 3° ano do técnico integrado em informatica, onde tenho obtido muito conhecimento
 ______________________________________________________________________
 🛠️ Linguagens de Programação que estou aprendendo:
+
+
 Python 🐍
 Java 💻
 HTML  🌟
