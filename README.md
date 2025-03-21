@@ -17,8 +17,14 @@ SQL 📈
 --------------------------------------------------------------
 
  Atualmente estou focada em 📚 :
+
+ 
 Aperfeiçoar meu conhecimento em desenvolvimento web I,
-sistemas embarcados, engenharia de software e 
+
+sistemas embarcados,
+
+engenharia de software e 
+
 programação orientada a objeto.
 
 
