@@ -1,4 +1,4 @@
-“Olá, eu sou **Ester Rodrigues da Costa** 👩‍💻”
+Olá, eu sou **Ester Rodrigues da Costa 👩‍💻
 
 
 
