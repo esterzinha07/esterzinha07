@@ -1,8 +1,8 @@
-Olá, eu sou a Ester Rodrigues da Costa 👩‍💻
-🎓 Estudante de Informática | Apaixonada por Tecnologia e Inovação
+Olá, eu sou Ester Rodrigues da Costa 👩‍💻
+🎓 Estudante de Informática | 
 
 🔍 Sobre mim:
-Atualmente, estou explorando o fascinante mundo da programação e do desenvolvimento de software. Estou sempre em busca de novos desafios para aprender e melhorar minhas habilidades!
+Atualmente tenho 17 anos e estou cursando no IFCE campus Maranguape o técnico integrado em informatica
 
 💡 Áreas de Interesse:
 
@@ -10,7 +10,7 @@ Desenvolvimento Web 🌐
 Algoritmos e Estruturas de Dados 📊
 Inteligência Artificial 🤖
 Automação 💻
--------------------------------------------------------------
+______________________________________________________________________
 🛠️ Linguagens de Programação que estou aprendendo:
 Python 🐍
 JavaScript 💻
