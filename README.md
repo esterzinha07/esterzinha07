@@ -18,3 +18,5 @@
 
 Aperfeiçoar meus conhecimentos em Desenvolvimento Web I, Sistemas Embarcados, Engenharia de Software e Programação Orientada a Objetos.
 
+“📧 **E-mail para contato**: **ester.r@aluno.ifce.edu.br**”
+
