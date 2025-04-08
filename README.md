@@ -1,4 +1,4 @@
-Olá, eu sou Ester Rodrigues da Costa 🎀
+"**Olá, eu sou Ester Rodrigues da Costa 🎀**"
 
 🎓 Estudante de Informática | IFCE Campus Maranguape | 3º ano do Técnico Integrado em Informática
 
