@@ -1,30 +1,19 @@
-Olá, eu sou Ester Rodrigues da Costa 👩‍💻
+Olá, eu sou Ester Rodrigues da Costa 🎀
+🎓 Estudante de Informática | IFCE Campus Maranguape | 3º ano do Técnico Integrado em Informática
 
+🔍 Sobre mim: Tenho 17 anos e estou em uma jornada incrível no mundo da tecnologia. Atualmente, estou no 3º ano do meu curso técnico e já acumulei muito conhecimento sobre programação e desenvolvimento de sistemas.
 
-
-🎓 Estudante de Informática | 
-
-🔍 Sobre mim:
-Atualmente tenho 17 anos e estou cursando no IFCE campus Maranguape onde
-já estrou no 3° ano do técnico integrado em informatica, onde tenho obtido muito conhecimento
-______________________________________________________________________
 🛠️ Linguagens de Programação que estou aprendendo:
-
 
 Python 🐍
 
 Java 💻
 
-HTML  🌟
+HTML 🌟
 
 SQL 📈
---------------------------------------------------------------
 
- Atualmente estou focada em 📚 :
+📚 Atualmente, estou focada em:
 
- 
-Aperfeiçoar meu conhecimento em desenvolvimento web I,
-sistemas embarcados,              engenharia de software e 
-programação orientada a objeto.
-
+Aperfeiçoar meus conhecimentos em Desenvolvimento Web I, Sistemas Embarcados, Engenharia de Software e Programação Orientada a Objetos.
 
